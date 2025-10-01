@@ -1,11 +1,7 @@
 # 🌐 ConnectSphere
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-> A modern social networking web application that connects people through real-time messaging, profile sharing, and social interactions [web:47].
+> A modern social networking web application that connects people through real-time messaging, profile sharing, and social interactions 
 
 ## ✨ Features
 
