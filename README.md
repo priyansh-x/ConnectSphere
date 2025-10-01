@@ -25,14 +25,4 @@
 - Firebase Hosting - Web deployment
 - Firebase Storage - File uploads
 
-## 🚀 Quick Start
 
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm or yarn package manager
-- Firebase account
-
-### Installation
-
-1. **Clone the repository**
